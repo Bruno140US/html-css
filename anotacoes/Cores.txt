@@ -1,0 +1,49 @@
+Cores primarias:
+	Amarelo, Vermelho e Azul
+	Sao simetricas no circulo cromatico, tem harmonia, harmonia meio grosseira
+
+Cores Secundarias:
+	Laranja, Violeta e Verde
+	Sao simetricas no circulo cromatico
+	
+Cores Terciarias (Para dar o nome delas coloque o nome primario antes e depois secundario):
+	Ex: Amarelo-esverdeado (Nao se diz Verde-amarelado pois amarelo e a cor primaria)
+		Amarelo-alaranjado
+		Vermelho-alaranjado
+		Vermelho-arroxeado
+		Azul-arroxeado
+		Azul-esverdeado
+	Tambem chamadas de "tom pastel"
+
+Dividindo o circulo cromatico no "meio" as cores da esquerda sao as cores frias,
+e as cores da direita sao as cores quentes (dividindo no amarelo-esverdeado e no violeta e vermelho-arroxeado)
+
+Importante trabalhar com 3, 4 ou 5 paleta de cores na hora de desenvolver um site
+Se ja houver logo, analisar cor primaria e trabalhar em cima desta cor.
+
+Cores complementares: 
+	Cores que tem mais contrastes entre si.
+	Tracando uma linha reta no circulo cromatico conseguimos encontrar as cores com maior combinacoes.
+
+Cores analogas:
+	Sao cores que nao tem contraste tao grande mas sao perceptiveis.
+	Nao tem muito contraste mas tem harmonia
+	Ex: Violeta, duas analogas aos lados, e amarelo que esta do outro lado
+	
+Cores analogas relacionadas:
+	Sao cores que criam tipo um degrade, mas nao criam um contraste.
+	Duas cores vizinhas, "pula" uma cor, e pega a terceira.
+	Ex: Amarelo, e amarelo escuro, pula o laranja e pega o vermelho-alaranjado
+	Esse exemplo serve tambem para o lado contrario
+	
+Cores Intercaladas:
+	Parecidas com analogas relacionadas mas com mais harmonia
+	Ex: Amarelo, pula amarelo escuro, pega laranja, pula vermelho-alaranjado e pega vermelho.
+	
+Cores Triadicas:
+	Seleciona cor e pula 3, formando um triangulo no circulo cromatico.
+	
+Cores em Quadrado:
+	Seleciona uma e pula duas, assim por diante ate formar um quadrado no circulo.
+	
+

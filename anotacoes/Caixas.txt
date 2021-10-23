@@ -1,0 +1,19 @@
+Qualquer caixa conseguimos tracar uma linha em volta, esta linha se chama "border"
+
+O espaco que podemos criar entre o texto e a borda se chama "padding"
+
+O espaco externo da caixa (para nao colar com outra caixa)se chama "margin"
+
+Dentro da "margin" temos tambem o contorno (fora do elemento), que se chama "outline"
+
+Existem dois tipos de caixas:
+
+Primeiro: box-level
+		Sao caixas que se iniciam em uma linha nova (em baixo do final de cada texto)
+		Depois que exibir a box, ele ira pular para a linha de baixo novamente.
+		<div> </div>
+
+Segundo: inline-level
+		Sao caixas que se iniciam na mesma linha do seu elemento e depois continua o elemento.
+		<span> </span>
+		
